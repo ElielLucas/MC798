@@ -1,0 +1,24 @@
+RA, InputFile, Path, Dia/Hora, NNodes, NArcs, NTriggers, Routine, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+295745,grf109.txt,grf109.txt,2025-07-13T15:48:40.142,37,222,6860,lb_lp,maxtime_lb_lp,1050,time_lb_lp,13,lb_lp,33.40000000000002,
+295745,grf109.txt,grf109.txt,2025-07-13T16:06:24.682,37,222,6860,lb_rlxlag,maxtime_lb_rlxlag,1050,time_lb_rlxlag,1062,lb_rlxlag,33.39674412253228,
+295745,grf109.txt,grf109.txt,2025-07-13T16:06:52.428,37,222,6860,ub_lp,maxtime_ub_lp,1050,time_ub_lp,28,ub_lp,37.48,
+295745,grf109.txt,grf109.txt,2025-07-13T16:24:23.177,37,222,6860,ub_rlxlag,maxtime_ub_rlxlag,1050,time_ub_rlxlag,1051,ub_rlxlag,36.02999999999999,
+295745,grf109.txt,grf109.txt,2025-07-13T16:24:42.092,37,222,6860,lb_colgen,maxtime_lb_colgen,1050,time_lb_colgen,19,lb_colgen,38.019999999999996,
+295745,grf109.txt,grf109.txt,2025-07-15T16:21:50.131,37,222,6860,ub_colgen,maxtime_ub_colgen,1020,time_ub_colgen,1,ub_colgen,38.349999999999994,
+295745,grf109.txt,grf109.txt,2025-07-15T16:38:52.191,37,222,6860,ilp,maxtime_ilp,1020,time_ilp,1022,lb_ilp,35.769999999999996,ub_ilp,39.309999999999995,nn_ilp,1308,
+
+
+
+Explored 1308 nodes (211597 simplex iterations) in 1020.12 seconds (1183.49 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 5: 35.77 36.04 36.32 ... 36.6
+
+Time limit reached
+Best objective 3.577000000000e+01, best bound 3.346000000000e+01, gap 6.4579%
+
+User-callback calls 114687, time in user-callback 0.34 sec
+---- PLI com Gurobi Finalizado ----
+Custo ótimo (real): 39.309999999999995
+LB solver (função objetivo): 35.769999999999996
+Arcos no tour: [1, 5, 10, 15, 25, 28, 34, 39, 47, 55, 61, 63, 72, 80, 85, 90, 95, 102, 106, 115, 117, 125, 132, 136, 145, 147, 154, 163, 166, 171, 181, 186, 194, 196, 205, 209, 217]

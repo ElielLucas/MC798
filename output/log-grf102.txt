@@ -1,0 +1,8 @@
+RA, InputFile, Path, Dia/Hora, NNodes, NArcs, NTriggers, Routine, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+295745,grf102.txt,grf102.txt,2025-07-13T00:01:49.069,22,132,2135,lb_lp,maxtime_lb_lp,1050,time_lb_lp,2,lb_lp,19.9,
+295745,grf102.txt,grf102.txt,2025-07-13T00:10:46.363,22,132,2135,lb_rlxlag,maxtime_lb_rlxlag,1050,time_lb_rlxlag,536,lb_rlxlag,19.89876568908672,
+295745,grf102.txt,grf102.txt,2025-07-13T00:10:50.516,22,132,2135,ub_lp,maxtime_ub_lp,1050,time_ub_lp,4,ub_lp,21.45,
+295745,grf102.txt,grf102.txt,2025-07-13T00:21:31.143,22,132,2135,ub_rlxlag,maxtime_ub_rlxlag,1050,time_ub_rlxlag,641,ub_rlxlag,20.819999999999997,
+295745,grf102.txt,grf102.txt,2025-07-13T00:21:35.819,22,132,2135,lb_colgen,maxtime_lb_colgen,1050,time_lb_colgen,5,lb_colgen,21.839999999999996,
+295745,grf102.txt,grf102.txt,2025-07-15T09:43:44.044,22,132,2135,ub_colgen,maxtime_ub_colgen,1500,time_ub_colgen,537,ub_colgen,21.839999999999996,
+295745,grf102.txt,grf102.txt,2025-07-15T10:08:44.558,22,132,2135,ilp,maxtime_ilp,1500,time_ilp,1501,lb_ilp,20.650000000000002,ub_ilp,21.06,nn_ilp,20851,

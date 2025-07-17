@@ -50,14 +50,14 @@ function main()
 	 TriggerArcTSP_ub_rlxlag(T)
 	 WriteLogFile(T,"ub_rlxlag")
 
-	 TriggerArcTSP_lb_colgen(T)
-	 WriteLogFile(T,"lb_colgen")
+	#  TriggerArcTSP_lb_colgen(T)
+	#  WriteLogFile(T,"lb_colgen")
 
-	 TriggerArcTSP_ub_colgen(T)
-	 WriteLogFile(T,"ub_colgen")
+	#  TriggerArcTSP_ub_colgen(T)
+	#  WriteLogFile(T,"ub_colgen")
 	 
-	 TriggerArcTSP_ilp(T)
-	 WriteLogFile(T,"ilp")
+	#  TriggerArcTSP_ilp(T)
+	#  WriteLogFile(T,"ilp")
 
 	#  Exemplo_PLI(T,1000000) # The second parameter is the maximum time in seconds
 end

@@ -1,0 +1,1263 @@
+Rodando instância: grf117.txt
+---- Iniciando Relaxamento LP ----
+Set parameter Username
+Set parameter LicenseID to value 2632250
+Academic license - for non-commercial use only - expires 2026-03-06
+LP solved in 56.519s, LB=46.92
+---- Iniciando Relaxação Lagrangeana ----
+Iter   1: best=53.24 @ t=0.226
+Iter   2: best=53.24 @ t=0.267
+Iter   3: best=53.24 @ t=0.307
+Iter   4: best=53.24 @ t=0.800
+Iter   5: best=53.24 @ t=0.817
+Iter   6: best=53.24 @ t=0.836
+Iter   7: best=53.24 @ t=0.854
+Iter   8: best=53.24 @ t=0.889
+Iter   9: best=53.24 @ t=0.908
+Iter  10: best=53.24 @ t=0.930
+Iter  11: best=53.24 @ t=0.949
+Iter  12: best=53.24 @ t=0.969
+Iter  13: best=53.24 @ t=0.987
+Iter  14: best=53.24 @ t=1.010
+Iter  15: best=53.24 @ t=1.030
+Iter  16: best=53.24 @ t=1.050
+Iter  17: best=53.24 @ t=1.069
+Iter  18: best=53.24 @ t=1.088
+Iter  19: best=53.24 @ t=1.108
+Iter  20: best=53.24 @ t=1.130
+Iter  21: best=53.24 @ t=1.150
+Iter  22: best=53.24 @ t=1.169
+Iter  23: best=53.24 @ t=1.188
+Iter  24: best=53.24 @ t=1.212
+Iter  25: best=53.24 @ t=1.232
+Iter  26: best=53.24 @ t=1.251
+Iter  27: best=53.24 @ t=1.270
+Iter  28: best=53.24 @ t=1.290
+Iter  29: best=53.24 @ t=1.312
+Iter  30: best=53.24 @ t=1.331
+Iter  31: best=53.24 @ t=1.350
+Iter  32: best=53.24 @ t=1.368
+Iter  33: best=53.24 @ t=1.390
+Iter  34: best=53.24 @ t=1.411
+Iter  35: best=53.24 @ t=1.430
+Iter  36: best=53.24 @ t=1.449
+Iter  37: best=53.24 @ t=1.473
+Iter  38: best=53.24 @ t=1.499
+Iter  39: best=53.24 @ t=1.526
+Iter  40: best=53.24 @ t=1.551
+Iter  41: best=53.24 @ t=1.581
+Iter  42: best=53.24 @ t=1.601
+Iter  43: best=53.24 @ t=1.622
+Iter  44: best=53.24 @ t=1.644
+Iter  45: best=53.24 @ t=1.663
+Iter  46: best=53.24 @ t=1.681
+Iter  47: best=53.24 @ t=1.700
+Iter  48: best=53.24 @ t=1.723
+Iter  49: best=53.24 @ t=1.749
+Iter  50: best=53.24 @ t=1.767
+Iter  51: best=53.24 @ t=1.786
+Iter  52: best=53.24 @ t=1.807
+Iter  53: best=53.24 @ t=1.828
+Iter  54: best=53.24 @ t=1.847
+Iter  55: best=53.24 @ t=1.866
+Iter  56: best=53.24 @ t=1.888
+Iter  57: best=53.24 @ t=1.908
+Iter  58: best=53.24 @ t=1.927
+Iter  59: best=53.24 @ t=1.946
+Iter  60: best=53.24 @ t=1.964
+Iter  61: best=53.24 @ t=1.982
+Iter  62: best=53.24 @ t=2.003
+Iter  63: best=53.24 @ t=2.024
+Iter  64: best=53.24 @ t=2.046
+Iter  65: best=53.24 @ t=2.066
+Iter  66: best=53.24 @ t=2.084
+Iter  67: best=53.24 @ t=2.104
+Iter  68: best=53.24 @ t=2.125
+Iter  69: best=53.24 @ t=2.145
+Iter  70: best=53.24 @ t=2.164
+Iter  71: best=53.24 @ t=2.182
+Iter  72: best=53.24 @ t=2.204
+Iter  73: best=53.24 @ t=2.223
+Iter  74: best=53.24 @ t=2.242
+Iter  75: best=53.24 @ t=2.261
+Iter  76: best=53.24 @ t=2.280
+Iter  77: best=53.24 @ t=2.298
+Iter  78: best=53.24 @ t=2.316
+Iter  79: best=53.24 @ t=2.336
+Iter  80: best=53.24 @ t=2.359
+Iter  81: best=53.24 @ t=2.378
+Iter  82: best=53.24 @ t=2.396
+Iter  83: best=53.24 @ t=2.415
+Iter  84: best=53.24 @ t=2.433
+Iter  85: best=53.24 @ t=2.455
+Iter  86: best=53.24 @ t=2.476
+Iter  87: best=53.24 @ t=2.496
+Iter  88: best=53.24 @ t=2.514
+Iter  89: best=53.24 @ t=2.532
+Iter  90: best=53.24 @ t=2.551
+Iter  91: best=53.24 @ t=2.571
+Iter  92: best=53.24 @ t=2.591
+Iter  93: best=53.24 @ t=2.610
+Iter  94: best=53.24 @ t=2.629
+Iter  95: best=53.24 @ t=2.648
+Iter  96: best=53.24 @ t=2.669
+Iter  97: best=53.24 @ t=2.696
+Iter  98: best=53.24 @ t=2.713
+Iter  99: best=53.24 @ t=2.731
+Iter 100: best=53.24 @ t=2.750
+Set parameter Username
+Set parameter LicenseID to value 2632250
+Academic license - for non-commercial use only - expires 2026-03-06
+It   1: LB=46.80 (best=46.80)  step=0.22
+Set parameter Username
+Set parameter LicenseID to value 2632250
+Academic license - for non-commercial use only - expires 2026-03-06
+It   2: LB=35.52 (best=46.80)  step=0.10
+Set parameter Username
+Set parameter LicenseID to value 2632250
+Academic license - for non-commercial use only - expires 2026-03-06
+It   3: LB=38.30 (best=46.80)  step=0.06
+Set parameter Username
+Set parameter LicenseID to value 2632250
+Academic license - for non-commercial use only - expires 2026-03-06
+It   4: LB=40.66 (best=46.80)  step=0.05
+Set parameter Username
+Set parameter LicenseID to value 2632250
+Academic license - for non-commercial use only - expires 2026-03-06
+It   5: LB=42.37 (best=46.80)  step=0.05
+Set parameter Username
+Set parameter LicenseID to value 2632250
+Academic license - for non-commercial use only - expires 2026-03-06
+It   6: LB=43.28 (best=46.80)  step=0.04
+Set parameter Username
+Set parameter LicenseID to value 2632250
+Academic license - for non-commercial use only - expires 2026-03-06
+It   7: LB=43.59 (best=46.80)  step=0.04
+Set parameter Username
+Set parameter LicenseID to value 2632250
+Academic license - for non-commercial use only - expires 2026-03-06
+It   8: LB=43.36 (best=46.80)  step=0.04
+Set parameter Username
+Set parameter LicenseID to value 2632250
+Academic license - for non-commercial use only - expires 2026-03-06
+It   9: LB=43.98 (best=46.80)  step=0.03
+Set parameter Username
+Set parameter LicenseID to value 2632250
+Academic license - for non-commercial use only - expires 2026-03-06
+It  10: LB=44.30 (best=46.80)  step=0.03
+Set parameter Username
+Set parameter LicenseID to value 2632250
+Academic license - for non-commercial use only - expires 2026-03-06
+It  11: LB=44.30 (best=46.80)  step=0.04
+Set parameter Username
+Set parameter LicenseID to value 2632250
+Academic license - for non-commercial use only - expires 2026-03-06
+It  12: LB=44.56 (best=46.80)  step=0.03
+Set parameter Username
+Set parameter LicenseID to value 2632250
+Academic license - for non-commercial use only - expires 2026-03-06
+It  13: LB=44.84 (best=46.80)  step=0.03
+Set parameter Username
+Set parameter LicenseID to value 2632250
+Academic license - for non-commercial use only - expires 2026-03-06
+It  14: LB=45.09 (best=46.80)  step=0.02
+Set parameter Username
+Set parameter LicenseID to value 2632250
+Academic license - for non-commercial use only - expires 2026-03-06
+It  15: LB=44.86 (best=46.80)  step=0.02
+Set parameter Username
+Set parameter LicenseID to value 2632250
+Academic license - for non-commercial use only - expires 2026-03-06
+It  16: LB=45.27 (best=46.80)  step=0.03
+Set parameter Username
+Set parameter LicenseID to value 2632250
+Academic license - for non-commercial use only - expires 2026-03-06
+It  17: LB=45.35 (best=46.80)  step=0.02
+Set parameter Username
+Set parameter LicenseID to value 2632250
+Academic license - for non-commercial use only - expires 2026-03-06
+It  18: LB=45.53 (best=46.80)  step=0.02
+Set parameter Username
+Set parameter LicenseID to value 2632250
+Academic license - for non-commercial use only - expires 2026-03-06
+It  19: LB=45.39 (best=46.80)  step=0.02
+Set parameter Username
+Set parameter LicenseID to value 2632250
+Academic license - for non-commercial use only - expires 2026-03-06
+It  20: LB=45.65 (best=46.80)  step=0.02
+Tempo máximo de 600.0s excedido na relaxação Lagrangeana. Interrompendo.
+Gráfico salvo: lb_rlxlag_grf117.png
+---- Iniciando Heurística de Arredondamento ----
+Iter   1: best=53.24 @ t=0.016
+Iter   2: best=53.24 @ t=0.481
+Iter   3: best=53.24 @ t=0.494
+Iter   4: best=53.24 @ t=0.507
+Iter   5: best=53.24 @ t=0.521
+Iter   6: best=53.24 @ t=0.557
+Iter   7: best=53.24 @ t=0.572
+Iter   8: best=53.24 @ t=0.586
+Iter   9: best=53.24 @ t=0.601
+Iter  10: best=53.24 @ t=0.617
+Iter  11: best=53.24 @ t=0.633
+Iter  12: best=53.24 @ t=0.648
+Iter  13: best=53.24 @ t=0.663
+Iter  14: best=53.24 @ t=0.679
+Iter  15: best=53.24 @ t=0.693
+Iter  16: best=53.24 @ t=0.708
+Iter  17: best=53.24 @ t=0.723
+Iter  18: best=53.24 @ t=0.738
+Iter  19: best=53.24 @ t=0.754
+Iter  20: best=53.24 @ t=0.769
+Iter  21: best=53.24 @ t=0.785
+Iter  22: best=53.24 @ t=0.800
+Iter  23: best=53.24 @ t=0.816
+Iter  24: best=53.24 @ t=0.831
+Iter  25: best=53.24 @ t=0.846
+Iter  26: best=53.24 @ t=0.862
+Iter  27: best=53.24 @ t=0.876
+Iter  28: best=53.24 @ t=0.890
+Iter  29: best=53.24 @ t=0.905
+Iter  30: best=53.24 @ t=0.920
+Iter  31: best=53.24 @ t=0.935
+Iter  32: best=53.24 @ t=0.950
+Iter  33: best=53.24 @ t=0.966
+Iter  34: best=53.24 @ t=0.982
+Iter  35: best=53.24 @ t=0.997
+Iter  36: best=53.24 @ t=1.013
+Iter  37: best=53.24 @ t=1.027
+Iter  38: best=53.24 @ t=1.041
+Iter  39: best=53.24 @ t=1.055
+Iter  40: best=53.24 @ t=1.070
+Iter  41: best=53.24 @ t=1.085
+Iter  42: best=53.24 @ t=1.101
+Iter  43: best=53.24 @ t=1.115
+Iter  44: best=53.24 @ t=1.131
+Iter  45: best=53.24 @ t=1.146
+Iter  46: best=53.24 @ t=1.162
+Iter  47: best=53.24 @ t=1.177
+Iter  48: best=53.24 @ t=1.192
+Iter  49: best=53.24 @ t=1.205
+Iter  50: best=53.24 @ t=1.220
+Iter  51: best=53.24 @ t=1.235
+Iter  52: best=53.24 @ t=1.251
+Iter  53: best=53.24 @ t=1.266
+Iter  54: best=53.24 @ t=1.281
+Iter  55: best=53.24 @ t=1.296
+Iter  56: best=53.24 @ t=1.311
+Iter  57: best=53.24 @ t=1.328
+Iter  58: best=53.24 @ t=1.342
+Iter  59: best=53.24 @ t=1.355
+Iter  60: best=53.24 @ t=1.370
+Iter  61: best=53.24 @ t=1.385
+Iter  62: best=53.24 @ t=1.400
+Iter  63: best=53.24 @ t=1.415
+Iter  64: best=53.24 @ t=1.431
+Iter  65: best=53.24 @ t=1.447
+Iter  66: best=53.24 @ t=1.462
+Iter  67: best=53.24 @ t=1.477
+Iter  68: best=53.24 @ t=1.492
+Iter  69: best=53.24 @ t=1.506
+Iter  70: best=53.24 @ t=1.520
+Iter  71: best=53.24 @ t=1.535
+Iter  72: best=53.24 @ t=1.550
+Iter  73: best=53.24 @ t=1.567
+Iter  74: best=53.24 @ t=1.585
+Iter  75: best=53.24 @ t=1.600
+Iter  76: best=53.24 @ t=1.615
+Iter  77: best=53.24 @ t=1.630
+Iter  78: best=53.24 @ t=1.645
+Iter  79: best=53.24 @ t=1.661
+Iter  80: best=53.24 @ t=1.676
+Iter  81: best=53.24 @ t=1.691
+Iter  82: best=53.24 @ t=1.705
+Iter  83: best=53.24 @ t=1.718
+Iter  84: best=53.24 @ t=1.735
+Iter  85: best=53.24 @ t=1.750
+Iter  86: best=53.24 @ t=1.765
+Iter  87: best=53.24 @ t=1.780
+Iter  88: best=53.24 @ t=1.795
+Iter  89: best=53.24 @ t=1.810
+Iter  90: best=53.24 @ t=1.826
+Iter  91: best=53.24 @ t=1.840
+Iter  92: best=53.24 @ t=1.853
+Iter  93: best=53.24 @ t=1.868
+Iter  94: best=53.24 @ t=1.883
+Iter  95: best=53.24 @ t=1.898
+Iter  96: best=53.24 @ t=1.913
+Iter  97: best=53.24 @ t=1.928
+Iter  98: best=53.24 @ t=1.943
+Iter  99: best=53.24 @ t=1.958
+Iter 100: best=53.24 @ t=1.973
+Iter 101: best=53.24 @ t=1.986
+Iter 102: best=53.24 @ t=2.001
+Iter 103: best=53.24 @ t=2.016
+Iter 104: best=53.24 @ t=2.031
+Iter 105: best=53.24 @ t=2.046
+Iter 106: best=53.24 @ t=2.062
+Iter 107: best=53.24 @ t=2.077
+Iter 108: best=53.24 @ t=2.092
+Iter 109: best=53.24 @ t=2.107
+Iter 110: best=53.24 @ t=2.120
+Iter 111: best=53.24 @ t=2.135
+Iter 112: best=53.24 @ t=2.150
+Iter 113: best=53.24 @ t=2.164
+Iter 114: best=53.24 @ t=2.180
+Iter 115: best=53.24 @ t=2.195
+Iter 116: best=53.24 @ t=2.211
+Iter 117: best=53.24 @ t=2.226
+Iter 118: best=53.24 @ t=2.241
+Iter 119: best=53.24 @ t=2.256
+Iter 120: best=53.24 @ t=2.269
+Iter 121: best=53.24 @ t=2.283
+Iter 122: best=53.24 @ t=2.298
+Iter 123: best=53.24 @ t=2.313
+Iter 124: best=53.24 @ t=2.328
+Iter 125: best=53.24 @ t=2.343
+Iter 126: best=53.24 @ t=2.358
+Iter 127: best=53.24 @ t=2.373
+Iter 128: best=53.24 @ t=2.388
+Iter 129: best=53.24 @ t=2.402
+Iter 130: best=53.24 @ t=2.416
+Iter 131: best=53.24 @ t=2.430
+Iter 132: best=53.24 @ t=2.445
+Iter 133: best=53.24 @ t=2.461
+Iter 134: best=53.24 @ t=2.475
+Iter 135: best=53.24 @ t=2.491
+Iter 136: best=53.24 @ t=2.506
+Iter 137: best=53.24 @ t=2.519
+Iter 138: best=53.24 @ t=2.534
+Iter 139: best=53.24 @ t=2.549
+Iter 140: best=53.24 @ t=2.564
+Iter 141: best=53.24 @ t=2.578
+Iter 142: best=53.24 @ t=2.593
+Iter 143: best=53.24 @ t=2.608
+Iter 144: best=53.24 @ t=2.623
+Iter 145: best=53.24 @ t=2.637
+Iter 146: best=53.24 @ t=2.652
+Iter 147: best=53.24 @ t=2.666
+Iter 148: best=53.24 @ t=2.681
+Iter 149: best=53.24 @ t=2.695
+Iter 150: best=53.24 @ t=2.710
+Iter 151: best=53.24 @ t=2.725
+Iter 152: best=53.24 @ t=2.740
+Iter 153: best=53.24 @ t=2.755
+Iter 154: best=53.24 @ t=2.770
+Iter 155: best=53.24 @ t=2.785
+Iter 156: best=53.24 @ t=2.799
+Iter 157: best=53.24 @ t=2.814
+Iter 158: best=53.24 @ t=2.829
+Iter 159: best=53.24 @ t=2.844
+Iter 160: best=53.24 @ t=2.860
+Iter 161: best=53.24 @ t=2.875
+Iter 162: best=53.24 @ t=2.890
+Iter 163: best=53.24 @ t=2.905
+Iter 164: best=53.24 @ t=2.920
+Iter 165: best=53.24 @ t=2.934
+Iter 166: best=53.24 @ t=2.947
+Iter 167: best=53.24 @ t=2.963
+Iter 168: best=53.24 @ t=2.978
+Iter 169: best=53.24 @ t=2.993
+Iter 170: best=53.24 @ t=3.008
+Iter 171: best=53.24 @ t=3.023
+Iter 172: best=53.24 @ t=3.038
+Iter 173: best=53.24 @ t=3.051
+Iter 174: best=53.24 @ t=3.066
+Iter 175: best=53.24 @ t=3.081
+Iter 176: best=53.24 @ t=3.095
+Iter 177: best=53.24 @ t=3.110
+Iter 178: best=53.24 @ t=3.126
+Iter 179: best=53.24 @ t=3.141
+Iter 180: best=53.24 @ t=3.156
+Iter 181: best=53.24 @ t=3.172
+Iter 182: best=53.24 @ t=3.188
+Iter 183: best=53.24 @ t=3.204
+Iter 184: best=53.24 @ t=3.218
+Iter 185: best=53.24 @ t=3.231
+Iter 186: best=53.24 @ t=3.247
+Iter 187: best=53.24 @ t=3.262
+Iter 188: best=53.24 @ t=3.277
+Iter 189: best=53.24 @ t=3.292
+Iter 190: best=53.24 @ t=3.308
+Iter 191: best=53.24 @ t=3.323
+Iter 192: best=53.24 @ t=3.340
+Iter 193: best=53.24 @ t=3.355
+Iter 194: best=53.24 @ t=3.370
+Iter 195: best=53.24 @ t=3.386
+Iter 196: best=53.24 @ t=3.400
+Iter 197: best=53.24 @ t=3.413
+Iter 198: best=53.24 @ t=3.427
+Iter 199: best=53.24 @ t=3.442
+Iter 200: best=53.24 @ t=3.457
+Iter 201: best=53.24 @ t=3.472
+Iter 202: best=53.24 @ t=3.488
+Iter 203: best=53.24 @ t=3.502
+Iter 204: best=53.24 @ t=3.516
+Iter 205: best=53.24 @ t=3.530
+Iter 206: best=53.24 @ t=3.545
+Iter 207: best=53.24 @ t=3.560
+Iter 208: best=53.24 @ t=3.575
+Iter 209: best=53.24 @ t=3.590
+Iter 210: best=53.24 @ t=3.606
+Iter 211: best=53.24 @ t=3.621
+Iter 212: best=53.24 @ t=3.637
+Iter 213: best=53.24 @ t=3.652
+Iter 214: best=53.24 @ t=3.667
+Iter 215: best=53.24 @ t=3.682
+Iter 216: best=53.24 @ t=3.697
+Iter 217: best=53.24 @ t=3.711
+Iter 218: best=53.24 @ t=3.726
+Iter 219: best=53.24 @ t=3.741
+Iter 220: best=53.24 @ t=3.756
+Iter 221: best=53.24 @ t=3.772
+Iter 222: best=53.24 @ t=3.788
+Iter 223: best=53.24 @ t=3.805
+Iter 224: best=53.24 @ t=3.824
+Iter 225: best=53.24 @ t=3.842
+Iter 226: best=53.24 @ t=3.857
+Iter 227: best=53.24 @ t=3.872
+Iter 228: best=53.24 @ t=3.887
+Iter 229: best=53.24 @ t=3.903
+Iter 230: best=53.24 @ t=3.918
+Iter 231: best=53.24 @ t=3.933
+Iter 232: best=53.24 @ t=3.948
+Iter 233: best=53.24 @ t=3.962
+Iter 234: best=53.24 @ t=3.976
+Iter 235: best=53.24 @ t=3.992
+Iter 236: best=53.24 @ t=4.008
+Iter 237: best=53.24 @ t=4.024
+Iter 238: best=53.24 @ t=4.040
+Iter 239: best=53.24 @ t=4.056
+Iter 240: best=53.24 @ t=4.072
+Iter 241: best=53.24 @ t=4.088
+Iter 242: best=53.24 @ t=4.103
+Iter 243: best=53.24 @ t=4.119
+Iter 244: best=53.24 @ t=4.135
+Iter 245: best=53.24 @ t=4.151
+Iter 246: best=53.24 @ t=4.167
+Iter 247: best=53.24 @ t=4.183
+Iter 248: best=53.24 @ t=4.199
+Iter 249: best=53.24 @ t=4.215
+Iter 250: best=53.24 @ t=4.230
+Iter 251: best=53.24 @ t=4.244
+Iter 252: best=53.24 @ t=4.260
+Iter 253: best=53.24 @ t=4.275
+Iter 254: best=53.24 @ t=4.290
+Iter 255: best=53.24 @ t=4.307
+Iter 256: best=53.24 @ t=4.324
+Iter 257: best=53.24 @ t=4.342
+Iter 258: best=53.24 @ t=4.360
+Iter 259: best=53.24 @ t=4.375
+Iter 260: best=53.24 @ t=4.390
+Iter 261: best=53.24 @ t=4.406
+Iter 262: best=53.24 @ t=4.421
+Iter 263: best=53.24 @ t=4.437
+Iter 264: best=53.24 @ t=4.452
+Iter 265: best=53.24 @ t=4.467
+Iter 266: best=53.24 @ t=4.483
+Iter 267: best=53.24 @ t=4.499
+Iter 268: best=53.24 @ t=4.514
+Iter 269: best=53.24 @ t=4.530
+Iter 270: best=53.24 @ t=4.551
+Iter 271: best=53.24 @ t=4.566
+Iter 272: best=53.24 @ t=4.583
+Iter 273: best=53.24 @ t=4.598
+Iter 274: best=53.24 @ t=4.617
+Iter 275: best=53.24 @ t=4.634
+Iter 276: best=53.24 @ t=4.650
+Iter 277: best=53.24 @ t=4.665
+Iter 278: best=53.24 @ t=4.684
+Iter 279: best=53.24 @ t=4.701
+Iter 280: best=53.24 @ t=4.716
+Iter 281: best=53.24 @ t=4.733
+Iter 282: best=53.24 @ t=4.750
+Iter 283: best=53.24 @ t=4.768
+Iter 284: best=53.24 @ t=4.784
+Iter 285: best=53.24 @ t=4.809
+Iter 286: best=53.24 @ t=4.835
+Iter 287: best=53.24 @ t=4.859
+Iter 288: best=53.24 @ t=4.883
+Iter 289: best=53.24 @ t=4.898
+Iter 290: best=53.24 @ t=4.915
+Iter 291: best=53.24 @ t=4.930
+Iter 292: best=53.24 @ t=4.947
+Iter 293: best=53.24 @ t=4.964
+Iter 294: best=53.24 @ t=4.980
+Iter 295: best=53.24 @ t=4.994
+Iter 296: best=53.24 @ t=5.007
+Iter 297: best=53.24 @ t=5.022
+Iter 298: best=53.24 @ t=5.037
+Iter 299: best=53.24 @ t=5.052
+Iter 300: best=53.24 @ t=5.067
+Iter 301: best=53.24 @ t=5.081
+Iter 302: best=53.24 @ t=5.096
+Iter 303: best=53.24 @ t=5.110
+Iter 304: best=53.24 @ t=5.123
+Iter 305: best=53.24 @ t=5.144
+Iter 306: best=53.24 @ t=5.158
+Iter 307: best=53.24 @ t=5.177
+Iter 308: best=53.24 @ t=5.192
+Iter 309: best=53.24 @ t=5.206
+Iter 310: best=53.24 @ t=5.220
+Iter 311: best=53.24 @ t=5.235
+Iter 312: best=53.24 @ t=5.249
+Iter 313: best=53.24 @ t=5.264
+Iter 314: best=53.24 @ t=5.279
+Iter 315: best=53.24 @ t=5.293
+Iter 316: best=53.24 @ t=5.307
+Iter 317: best=53.24 @ t=5.321
+Iter 318: best=53.24 @ t=5.336
+Iter 319: best=53.24 @ t=5.350
+Iter 320: best=53.24 @ t=5.365
+Iter 321: best=53.24 @ t=5.380
+Iter 322: best=53.24 @ t=5.395
+Iter 323: best=53.24 @ t=5.410
+Iter 324: best=53.24 @ t=5.423
+Iter 325: best=53.24 @ t=5.437
+Iter 326: best=53.24 @ t=5.451
+Iter 327: best=53.24 @ t=5.466
+Iter 328: best=53.24 @ t=5.480
+Iter 329: best=53.24 @ t=5.495
+Iter 330: best=53.24 @ t=5.508
+Iter 331: best=53.24 @ t=5.522
+Iter 332: best=53.24 @ t=5.536
+Iter 333: best=53.24 @ t=5.551
+Iter 334: best=53.24 @ t=5.565
+Iter 335: best=53.24 @ t=5.580
+Iter 336: best=53.24 @ t=5.594
+Iter 337: best=53.24 @ t=5.609
+Iter 338: best=53.24 @ t=5.623
+Iter 339: best=53.24 @ t=5.636
+Iter 340: best=53.24 @ t=5.651
+Iter 341: best=53.24 @ t=5.666
+Iter 342: best=53.24 @ t=5.680
+Iter 343: best=53.24 @ t=5.695
+Iter 344: best=53.24 @ t=5.709
+Iter 345: best=53.24 @ t=5.723
+Iter 346: best=53.24 @ t=5.737
+Iter 347: best=53.24 @ t=5.751
+Iter 348: best=53.24 @ t=5.766
+Iter 349: best=53.24 @ t=5.781
+Iter 350: best=53.24 @ t=5.796
+Iter 351: best=53.24 @ t=5.811
+Iter 352: best=53.24 @ t=5.825
+Iter 353: best=53.24 @ t=5.838
+Iter 354: best=53.24 @ t=5.851
+Iter 355: best=53.24 @ t=5.866
+Iter 356: best=53.24 @ t=5.880
+Iter 357: best=53.24 @ t=5.895
+Iter 358: best=53.24 @ t=5.910
+Iter 359: best=53.24 @ t=5.924
+Iter 360: best=53.24 @ t=5.938
+Iter 361: best=53.24 @ t=5.951
+Iter 362: best=53.24 @ t=5.966
+Iter 363: best=53.24 @ t=5.981
+Iter 364: best=53.24 @ t=5.995
+Iter 365: best=53.24 @ t=6.010
+Iter 366: best=53.24 @ t=6.025
+Iter 367: best=53.24 @ t=6.039
+Iter 368: best=53.24 @ t=6.052
+Iter 369: best=53.24 @ t=6.067
+Iter 370: best=53.24 @ t=6.081
+Iter 371: best=53.24 @ t=6.096
+Iter 372: best=53.24 @ t=6.111
+Iter 373: best=53.24 @ t=6.125
+Iter 374: best=53.24 @ t=6.139
+Iter 375: best=53.24 @ t=6.153
+Iter 376: best=53.24 @ t=6.168
+Iter 377: best=53.24 @ t=6.181
+Iter 378: best=53.24 @ t=6.194
+Iter 379: best=53.24 @ t=6.206
+Iter 380: best=53.24 @ t=6.218
+Iter 381: best=53.24 @ t=6.230
+Iter 382: best=53.24 @ t=6.242
+Iter 383: best=53.24 @ t=6.254
+Iter 384: best=53.24 @ t=6.266
+Iter 385: best=53.24 @ t=6.278
+Iter 386: best=53.24 @ t=6.290
+Iter 387: best=53.24 @ t=6.302
+Iter 388: best=53.24 @ t=6.314
+Iter 389: best=53.24 @ t=6.326
+Iter 390: best=53.24 @ t=6.338
+Iter 391: best=53.24 @ t=6.350
+Iter 392: best=53.24 @ t=6.362
+Iter 393: best=53.24 @ t=6.374
+Iter 394: best=53.24 @ t=6.386
+Iter 395: best=53.24 @ t=6.398
+Iter 396: best=53.24 @ t=6.410
+Iter 397: best=53.24 @ t=6.423
+Iter 398: best=53.24 @ t=6.437
+Iter 399: best=53.24 @ t=6.452
+Iter 400: best=53.24 @ t=6.466
+Iter 401: best=53.24 @ t=6.479
+Iter 402: best=53.24 @ t=6.492
+Iter 403: best=53.24 @ t=6.505
+Iter 404: best=53.24 @ t=6.517
+Iter 405: best=53.24 @ t=6.529
+Iter 406: best=53.24 @ t=6.541
+Iter 407: best=53.24 @ t=6.552
+Iter 408: best=53.24 @ t=6.564
+Iter 409: best=53.24 @ t=6.576
+Iter 410: best=53.24 @ t=6.588
+Iter 411: best=53.24 @ t=6.600
+Iter 412: best=53.24 @ t=6.612
+Iter 413: best=53.24 @ t=6.624
+Iter 414: best=53.24 @ t=6.636
+Iter 415: best=53.24 @ t=6.648
+Iter 416: best=53.24 @ t=6.661
+Iter 417: best=53.24 @ t=6.673
+Iter 418: best=53.24 @ t=6.685
+Iter 419: best=53.24 @ t=6.698
+Iter 420: best=53.24 @ t=6.713
+Iter 421: best=53.24 @ t=6.728
+Iter 422: best=53.24 @ t=6.743
+Iter 423: best=53.24 @ t=6.758
+Iter 424: best=53.24 @ t=6.773
+Iter 425: best=53.24 @ t=6.787
+Iter 426: best=53.24 @ t=6.800
+Iter 427: best=53.24 @ t=6.814
+Iter 428: best=53.24 @ t=6.829
+Iter 429: best=53.24 @ t=6.843
+Iter 430: best=53.24 @ t=6.858
+Iter 431: best=53.24 @ t=6.873
+Iter 432: best=53.24 @ t=6.888
+Iter 433: best=53.24 @ t=6.904
+Iter 434: best=53.24 @ t=6.918
+Iter 435: best=53.24 @ t=6.931
+Iter 436: best=53.24 @ t=6.945
+Iter 437: best=53.24 @ t=6.960
+Iter 438: best=53.24 @ t=6.975
+Iter 439: best=53.24 @ t=6.990
+Iter 440: best=53.24 @ t=7.004
+Iter 441: best=53.24 @ t=7.018
+Iter 442: best=53.24 @ t=7.031
+Iter 443: best=53.24 @ t=7.045
+Iter 444: best=53.24 @ t=7.060
+Iter 445: best=53.24 @ t=7.075
+Iter 446: best=53.24 @ t=7.090
+Iter 447: best=53.24 @ t=7.104
+Iter 448: best=53.24 @ t=7.118
+Iter 449: best=53.24 @ t=7.131
+Iter 450: best=53.24 @ t=7.145
+Iter 451: best=53.24 @ t=7.160
+Iter 452: best=53.24 @ t=7.174
+Iter 453: best=53.24 @ t=7.189
+Iter 454: best=53.24 @ t=7.204
+Iter 455: best=53.24 @ t=7.219
+Iter 456: best=53.24 @ t=7.232
+Iter 457: best=53.24 @ t=7.246
+Iter 458: best=53.24 @ t=7.260
+Iter 459: best=53.24 @ t=7.275
+Iter 460: best=53.24 @ t=7.290
+Iter 461: best=53.24 @ t=7.305
+Iter 462: best=53.24 @ t=7.319
+Iter 463: best=53.24 @ t=7.332
+Iter 464: best=53.24 @ t=7.346
+Iter 465: best=53.24 @ t=7.360
+Iter 466: best=53.24 @ t=7.374
+Iter 467: best=53.24 @ t=7.389
+Iter 468: best=53.24 @ t=7.404
+Iter 469: best=53.24 @ t=7.418
+Iter 470: best=53.24 @ t=7.432
+Iter 471: best=53.24 @ t=7.446
+Iter 472: best=53.24 @ t=7.460
+Iter 473: best=53.24 @ t=7.475
+Iter 474: best=53.24 @ t=7.490
+Iter 475: best=53.24 @ t=7.505
+Iter 476: best=53.24 @ t=7.520
+Iter 477: best=53.24 @ t=7.535
+Iter 478: best=53.24 @ t=7.549
+Iter 479: best=53.24 @ t=7.563
+Iter 480: best=53.24 @ t=7.577
+Iter 481: best=53.24 @ t=7.593
+Iter 482: best=53.24 @ t=7.608
+Iter 483: best=53.24 @ t=7.623
+Iter 484: best=53.24 @ t=7.637
+Iter 485: best=53.24 @ t=7.652
+Iter 486: best=53.24 @ t=7.667
+Iter 487: best=53.24 @ t=7.681
+Iter 488: best=53.24 @ t=7.695
+Iter 489: best=53.24 @ t=7.710
+Iter 490: best=53.24 @ t=7.725
+Iter 491: best=53.24 @ t=7.739
+Iter 492: best=53.24 @ t=7.755
+Iter 493: best=53.24 @ t=7.770
+Iter 494: best=53.24 @ t=7.785
+Iter 495: best=53.24 @ t=7.800
+Iter 496: best=53.24 @ t=7.813
+Iter 497: best=53.24 @ t=7.827
+Iter 498: best=53.24 @ t=7.844
+Iter 499: best=53.24 @ t=7.861
+Iter 500: best=53.24 @ t=7.880
+Iter 501: best=53.24 @ t=7.899
+Iter 502: best=53.24 @ t=7.914
+Iter 503: best=53.24 @ t=7.928
+Iter 504: best=53.24 @ t=7.942
+Iter 505: best=53.24 @ t=7.955
+Iter 506: best=53.24 @ t=7.967
+Iter 507: best=53.24 @ t=7.980
+Iter 508: best=53.24 @ t=7.992
+Iter 509: best=53.24 @ t=8.005
+Iter 510: best=53.24 @ t=8.017
+Iter 511: best=53.24 @ t=8.030
+Iter 512: best=53.24 @ t=8.042
+Iter 513: best=53.24 @ t=8.055
+Iter 514: best=53.24 @ t=8.067
+Iter 515: best=53.24 @ t=8.080
+Iter 516: best=53.24 @ t=8.093
+Iter 517: best=53.24 @ t=8.109
+Iter 518: best=53.24 @ t=8.125
+Iter 519: best=53.24 @ t=8.142
+Iter 520: best=53.24 @ t=8.159
+Iter 521: best=53.24 @ t=8.174
+Iter 522: best=53.24 @ t=8.193
+Iter 523: best=53.24 @ t=8.218
+Iter 524: best=53.24 @ t=8.234
+Iter 525: best=53.24 @ t=8.248
+Iter 526: best=53.24 @ t=8.261
+Iter 527: best=53.24 @ t=8.274
+Iter 528: best=53.24 @ t=8.292
+Iter 529: best=53.24 @ t=8.308
+Iter 530: best=53.24 @ t=8.324
+Iter 531: best=53.24 @ t=8.338
+Iter 532: best=53.24 @ t=8.353
+Iter 533: best=53.24 @ t=8.368
+Iter 534: best=53.24 @ t=8.383
+Iter 535: best=53.24 @ t=8.397
+Iter 536: best=53.24 @ t=8.411
+Iter 537: best=53.24 @ t=8.424
+Iter 538: best=53.24 @ t=8.439
+Iter 539: best=53.24 @ t=8.454
+Iter 540: best=53.24 @ t=8.469
+Iter 541: best=53.24 @ t=8.483
+Iter 542: best=53.24 @ t=8.498
+Iter 543: best=53.24 @ t=8.513
+Iter 544: best=53.24 @ t=8.526
+Iter 545: best=53.24 @ t=8.540
+Iter 546: best=53.24 @ t=8.554
+Iter 547: best=53.24 @ t=8.569
+Iter 548: best=53.24 @ t=8.584
+Iter 549: best=53.24 @ t=8.598
+Iter 550: best=53.24 @ t=8.611
+Iter 551: best=53.24 @ t=8.625
+Iter 552: best=53.24 @ t=8.639
+Iter 553: best=53.24 @ t=8.654
+Iter 554: best=53.24 @ t=8.669
+Iter 555: best=53.24 @ t=8.684
+Iter 556: best=53.24 @ t=8.699
+Iter 557: best=53.24 @ t=8.713
+Iter 558: best=53.24 @ t=8.727
+Iter 559: best=53.24 @ t=8.740
+Iter 560: best=53.24 @ t=8.755
+Iter 561: best=53.24 @ t=8.769
+Iter 562: best=53.24 @ t=8.784
+Iter 563: best=53.24 @ t=8.799
+Iter 564: best=53.24 @ t=8.814
+Iter 565: best=53.24 @ t=8.829
+Iter 566: best=53.24 @ t=8.842
+Iter 567: best=53.24 @ t=8.855
+Iter 568: best=53.24 @ t=8.870
+Iter 569: best=53.24 @ t=8.886
+Iter 570: best=53.24 @ t=8.901
+Iter 571: best=53.24 @ t=8.915
+Iter 572: best=53.24 @ t=8.930
+Iter 573: best=53.24 @ t=8.943
+Iter 574: best=53.24 @ t=8.957
+Iter 575: best=53.24 @ t=8.971
+Iter 576: best=53.24 @ t=8.985
+Iter 577: best=53.24 @ t=9.000
+Iter 578: best=53.24 @ t=9.016
+Iter 579: best=53.24 @ t=9.031
+Iter 580: best=53.24 @ t=9.045
+Iter 581: best=53.24 @ t=9.058
+Iter 582: best=53.24 @ t=9.072
+Iter 583: best=53.24 @ t=9.087
+Iter 584: best=53.24 @ t=9.102
+Iter 585: best=53.24 @ t=9.116
+Iter 586: best=53.24 @ t=9.130
+Iter 587: best=53.24 @ t=9.146
+Iter 588: best=53.24 @ t=9.159
+Iter 589: best=53.24 @ t=9.173
+Iter 590: best=53.24 @ t=9.187
+Iter 591: best=53.24 @ t=9.202
+Iter 592: best=53.24 @ t=9.217
+Iter 593: best=53.24 @ t=9.232
+Iter 594: best=53.24 @ t=9.247
+Iter 595: best=53.24 @ t=9.262
+Iter 596: best=53.24 @ t=9.276
+Iter 597: best=53.24 @ t=9.295
+Iter 598: best=53.24 @ t=9.311
+Iter 599: best=53.24 @ t=9.328
+Iter 600: best=53.24 @ t=9.343
+Iter 601: best=53.24 @ t=9.355
+Iter 602: best=53.24 @ t=9.367
+Iter 603: best=53.24 @ t=9.379
+Iter 604: best=53.24 @ t=9.391
+Iter 605: best=53.24 @ t=9.403
+Iter 606: best=53.24 @ t=9.415
+Iter 607: best=53.24 @ t=9.427
+Iter 608: best=53.24 @ t=9.440
+Iter 609: best=53.24 @ t=9.452
+Iter 610: best=53.24 @ t=9.464
+Iter 611: best=53.24 @ t=9.476
+Iter 612: best=53.24 @ t=9.488
+Iter 613: best=53.24 @ t=9.500
+Iter 614: best=53.24 @ t=9.512
+Iter 615: best=53.24 @ t=9.524
+Iter 616: best=53.24 @ t=9.537
+Iter 617: best=53.24 @ t=9.550
+Iter 618: best=53.24 @ t=9.565
+Iter 619: best=53.24 @ t=9.581
+Iter 620: best=53.24 @ t=9.597
+Iter 621: best=53.24 @ t=9.612
+Iter 622: best=53.24 @ t=9.626
+Iter 623: best=53.24 @ t=9.640
+Iter 624: best=53.24 @ t=9.653
+Iter 625: best=53.24 @ t=9.667
+Iter 626: best=53.24 @ t=9.682
+Iter 627: best=53.24 @ t=9.697
+Iter 628: best=53.24 @ t=9.711
+Iter 629: best=53.24 @ t=9.725
+Iter 630: best=53.24 @ t=9.739
+Iter 631: best=53.24 @ t=9.753
+Iter 632: best=53.24 @ t=9.768
+Iter 633: best=53.24 @ t=9.782
+Iter 634: best=53.24 @ t=9.797
+Iter 635: best=53.24 @ t=9.812
+Iter 636: best=53.24 @ t=9.827
+Iter 637: best=53.24 @ t=9.842
+Iter 638: best=53.24 @ t=9.856
+Iter 639: best=53.24 @ t=9.871
+Iter 640: best=53.24 @ t=9.886
+Iter 641: best=53.24 @ t=9.902
+Iter 642: best=53.24 @ t=9.918
+Iter 643: best=53.24 @ t=9.933
+Iter 644: best=53.24 @ t=9.949
+Iter 645: best=53.24 @ t=9.964
+Iter 646: best=53.24 @ t=9.979
+Iter 647: best=53.24 @ t=9.995
+Iter 648: best=53.24 @ t=10.010
+Iter 649: best=53.24 @ t=10.026
+Iter 650: best=53.24 @ t=10.039
+Iter 651: best=53.24 @ t=10.055
+Iter 652: best=53.24 @ t=10.070
+Iter 653: best=53.24 @ t=10.085
+Iter 654: best=53.24 @ t=10.100
+Iter 655: best=53.24 @ t=10.116
+Iter 656: best=53.24 @ t=10.132
+Iter 657: best=53.24 @ t=10.148
+Iter 658: best=53.24 @ t=10.164
+Iter 659: best=53.24 @ t=10.178
+Iter 660: best=53.24 @ t=10.193
+Iter 661: best=53.24 @ t=10.207
+Iter 662: best=53.24 @ t=10.221
+Iter 663: best=53.24 @ t=10.235
+Iter 664: best=53.24 @ t=10.249
+Iter 665: best=53.24 @ t=10.263
+Iter 666: best=53.24 @ t=10.278
+Iter 667: best=53.24 @ t=10.293
+Iter 668: best=53.24 @ t=10.308
+Iter 669: best=53.24 @ t=10.321
+Iter 670: best=53.24 @ t=10.335
+Iter 671: best=53.24 @ t=10.350
+Iter 672: best=53.24 @ t=10.365
+Iter 673: best=53.24 @ t=10.380
+Iter 674: best=53.24 @ t=10.395
+Iter 675: best=53.24 @ t=10.409
+Iter 676: best=53.24 @ t=10.424
+Iter 677: best=53.24 @ t=10.437
+Iter 678: best=53.24 @ t=10.451
+Iter 679: best=53.24 @ t=10.465
+Iter 680: best=53.24 @ t=10.479
+Iter 681: best=53.24 @ t=10.493
+Iter 682: best=53.24 @ t=10.508
+Iter 683: best=53.24 @ t=10.523
+Iter 684: best=53.24 @ t=10.536
+Iter 685: best=53.24 @ t=10.549
+Iter 686: best=53.24 @ t=10.563
+Iter 687: best=53.24 @ t=10.578
+Iter 688: best=53.24 @ t=10.593
+Iter 689: best=53.24 @ t=10.607
+Iter 690: best=53.24 @ t=10.621
+Iter 691: best=53.24 @ t=10.634
+Iter 692: best=53.24 @ t=10.647
+Iter 693: best=53.24 @ t=10.664
+Iter 694: best=53.24 @ t=10.681
+Iter 695: best=53.24 @ t=10.697
+Iter 696: best=53.24 @ t=10.714
+Iter 697: best=53.24 @ t=10.731
+Iter 698: best=53.24 @ t=10.747
+Iter 699: best=53.24 @ t=10.762
+Iter 700: best=53.24 @ t=10.776
+Iter 701: best=53.24 @ t=10.788
+Iter 702: best=53.24 @ t=10.800
+Iter 703: best=53.24 @ t=10.812
+Iter 704: best=53.24 @ t=10.825
+Iter 705: best=53.24 @ t=10.837
+Iter 706: best=53.24 @ t=10.849
+Iter 707: best=53.24 @ t=10.861
+Iter 708: best=53.24 @ t=10.873
+Iter 709: best=53.24 @ t=10.885
+Iter 710: best=53.24 @ t=10.897
+Iter 711: best=53.24 @ t=10.910
+Iter 712: best=53.24 @ t=10.925
+Iter 713: best=53.24 @ t=10.943
+Iter 714: best=53.24 @ t=10.959
+Iter 715: best=53.24 @ t=10.975
+Iter 716: best=53.24 @ t=10.991
+Iter 717: best=53.24 @ t=11.009
+Iter 718: best=53.24 @ t=11.032
+Iter 719: best=53.24 @ t=11.062
+Iter 720: best=53.24 @ t=11.094
+Iter 721: best=53.24 @ t=11.125
+Iter 722: best=53.24 @ t=11.162
+Iter 723: best=53.24 @ t=11.193
+Iter 724: best=53.24 @ t=11.237
+Iter 725: best=53.24 @ t=11.290
+Iter 726: best=53.24 @ t=11.340
+Iter 727: best=53.24 @ t=11.390
+Iter 728: best=53.24 @ t=11.439
+Iter 729: best=53.24 @ t=11.489
+Iter 730: best=53.24 @ t=11.539
+Iter 731: best=53.24 @ t=11.574
+Iter 732: best=53.24 @ t=11.595
+Iter 733: best=53.24 @ t=11.613
+Iter 734: best=53.24 @ t=11.628
+Iter 735: best=53.24 @ t=11.643
+Iter 736: best=53.24 @ t=11.657
+Iter 737: best=53.24 @ t=11.671
+Iter 738: best=53.24 @ t=11.686
+Iter 739: best=53.24 @ t=11.699
+Iter 740: best=53.24 @ t=11.713
+Iter 741: best=53.24 @ t=11.728
+Iter 742: best=53.24 @ t=11.745
+Iter 743: best=53.24 @ t=11.762
+Iter 744: best=53.24 @ t=11.778
+Iter 745: best=53.24 @ t=11.794
+Iter 746: best=53.24 @ t=11.809
+Iter 747: best=53.24 @ t=11.825
+Iter 748: best=53.24 @ t=11.841
+Iter 749: best=53.24 @ t=11.856
+Iter 750: best=53.24 @ t=11.872
+Iter 751: best=53.24 @ t=11.888
+Iter 752: best=53.24 @ t=11.904
+Iter 753: best=53.24 @ t=11.920
+Iter 754: best=53.24 @ t=11.935
+Iter 755: best=53.24 @ t=11.950
+Iter 756: best=53.24 @ t=11.965
+Iter 757: best=53.24 @ t=11.982
+Iter 758: best=53.24 @ t=11.999
+Iter 759: best=53.24 @ t=12.013
+Iter 760: best=53.24 @ t=12.029
+Iter 761: best=53.24 @ t=12.044
+Iter 762: best=53.24 @ t=12.060
+Iter 763: best=53.24 @ t=12.077
+Iter 764: best=53.24 @ t=12.092
+Iter 765: best=53.24 @ t=12.108
+Iter 766: best=53.24 @ t=12.124
+Iter 767: best=53.24 @ t=12.140
+Iter 768: best=53.24 @ t=12.156
+Iter 769: best=53.24 @ t=12.172
+Iter 770: best=53.24 @ t=12.188
+Iter 771: best=53.24 @ t=12.203
+Iter 772: best=53.24 @ t=12.219
+Iter 773: best=53.24 @ t=12.234
+Iter 774: best=53.24 @ t=12.250
+Iter 775: best=53.24 @ t=12.264
+Iter 776: best=53.24 @ t=12.280
+Iter 777: best=53.24 @ t=12.295
+Iter 778: best=53.24 @ t=12.311
+Iter 779: best=53.24 @ t=12.327
+Iter 780: best=53.24 @ t=12.342
+Iter 781: best=53.24 @ t=12.356
+Iter 782: best=53.24 @ t=12.372
+Iter 783: best=53.24 @ t=12.390
+Iter 784: best=53.24 @ t=12.407
+Iter 785: best=53.24 @ t=12.423
+Iter 786: best=53.24 @ t=12.439
+Iter 787: best=53.24 @ t=12.455
+Iter 788: best=53.24 @ t=12.470
+Iter 789: best=53.24 @ t=12.486
+Iter 790: best=53.24 @ t=12.503
+Iter 791: best=53.24 @ t=12.518
+Iter 792: best=53.24 @ t=12.534
+Iter 793: best=53.24 @ t=12.550
+Iter 794: best=53.24 @ t=12.564
+Iter 795: best=53.24 @ t=12.579
+Iter 796: best=53.24 @ t=12.597
+Iter 797: best=53.24 @ t=12.611
+Iter 798: best=53.24 @ t=12.627
+Iter 799: best=53.24 @ t=12.643
+Iter 800: best=53.24 @ t=12.658
+Iter 801: best=53.24 @ t=12.674
+Iter 802: best=53.24 @ t=12.690
+Iter 803: best=53.24 @ t=12.706
+Iter 804: best=53.24 @ t=12.722
+Iter 805: best=53.24 @ t=12.738
+Iter 806: best=53.24 @ t=12.753
+Iter 807: best=53.24 @ t=12.769
+Iter 808: best=53.24 @ t=12.785
+Iter 809: best=53.24 @ t=12.802
+Iter 810: best=53.24 @ t=12.818
+Iter 811: best=53.24 @ t=12.834
+Iter 812: best=53.24 @ t=12.850
+Iter 813: best=53.24 @ t=12.866
+Iter 814: best=53.24 @ t=12.881
+Iter 815: best=53.24 @ t=12.897
+Iter 816: best=53.24 @ t=12.913
+Iter 817: best=53.24 @ t=12.928
+Iter 818: best=53.24 @ t=12.944
+Iter 819: best=53.24 @ t=12.959
+Iter 820: best=53.24 @ t=12.975
+Iter 821: best=53.24 @ t=12.990
+Iter 822: best=53.24 @ t=13.006
+Iter 823: best=53.24 @ t=13.022
+Iter 824: best=53.24 @ t=13.038
+Iter 825: best=53.24 @ t=13.054
+Iter 826: best=53.24 @ t=13.070
+Iter 827: best=53.24 @ t=13.086
+Iter 828: best=53.24 @ t=13.102
+Iter 829: best=53.24 @ t=13.118
+Iter 830: best=53.24 @ t=13.134
+Iter 831: best=53.24 @ t=13.150
+Iter 832: best=53.24 @ t=13.166
+Iter 833: best=53.24 @ t=13.181
+Iter 834: best=53.24 @ t=13.197
+Iter 835: best=53.24 @ t=13.213
+Iter 836: best=53.24 @ t=13.228
+Iter 837: best=53.24 @ t=13.244
+Iter 838: best=53.24 @ t=13.259
+Iter 839: best=53.24 @ t=13.277
+Iter 840: best=53.24 @ t=13.292
+Iter 841: best=53.24 @ t=13.313
+Iter 842: best=53.24 @ t=13.330
+Iter 843: best=53.24 @ t=13.346
+Iter 844: best=53.24 @ t=13.361
+Iter 845: best=53.24 @ t=13.376
+Iter 846: best=53.24 @ t=13.391
+Iter 847: best=53.24 @ t=13.407
+Iter 848: best=53.24 @ t=13.422
+Iter 849: best=53.24 @ t=13.438
+Iter 850: best=53.24 @ t=13.454
+Iter 851: best=53.24 @ t=13.470
+Iter 852: best=53.24 @ t=13.486
+Iter 853: best=53.24 @ t=13.502
+Iter 854: best=53.24 @ t=13.518
+Iter 855: best=53.24 @ t=13.534
+Iter 856: best=53.24 @ t=13.551
+Iter 857: best=53.24 @ t=13.567
+Iter 858: best=53.24 @ t=13.583
+Iter 859: best=53.24 @ t=13.598
+Iter 860: best=53.24 @ t=13.613
+Iter 861: best=53.24 @ t=13.627
+Iter 862: best=53.24 @ t=13.640
+Iter 863: best=53.24 @ t=13.654
+Iter 864: best=53.24 @ t=13.667
+Iter 865: best=53.24 @ t=13.681
+Iter 866: best=53.24 @ t=13.694
+Iter 867: best=53.24 @ t=13.707
+Iter 868: best=53.24 @ t=13.721
+Iter 869: best=53.24 @ t=13.735
+Iter 870: best=53.24 @ t=13.749
+Iter 871: best=53.24 @ t=13.765
+Iter 872: best=53.24 @ t=13.781
+Iter 873: best=53.24 @ t=13.797
+Iter 874: best=53.24 @ t=13.813
+Iter 875: best=53.24 @ t=13.829
+Iter 876: best=53.24 @ t=13.844
+Iter 877: best=53.24 @ t=13.861
+Iter 878: best=53.24 @ t=13.876
+Iter 879: best=53.24 @ t=13.892
+Iter 880: best=53.24 @ t=13.907
+Iter 881: best=53.24 @ t=13.922
+Iter 882: best=53.24 @ t=13.938
+Iter 883: best=53.24 @ t=13.954
+Iter 884: best=53.24 @ t=13.971
+Iter 885: best=53.24 @ t=13.987
+Iter 886: best=53.24 @ t=14.002
+Iter 887: best=53.24 @ t=14.018
+Iter 888: best=53.24 @ t=14.034
+Iter 889: best=53.24 @ t=14.050
+Iter 890: best=53.24 @ t=14.066
+Iter 891: best=53.24 @ t=14.082
+Iter 892: best=53.24 @ t=14.098
+Iter 893: best=53.24 @ t=14.114
+Iter 894: best=53.24 @ t=14.130
+Iter 895: best=53.24 @ t=14.146
+Iter 896: best=53.24 @ t=14.162
+Iter 897: best=53.24 @ t=14.178
+Iter 898: best=53.24 @ t=14.195
+Iter 899: best=53.24 @ t=14.210
+Iter 900: best=53.24 @ t=14.226
+Iter 901: best=53.24 @ t=14.242
+Iter 902: best=53.24 @ t=14.257
+Iter 903: best=53.24 @ t=14.274
+Iter 904: best=53.24 @ t=14.288
+Iter 905: best=53.24 @ t=14.304
+Iter 906: best=53.24 @ t=14.320
+Iter 907: best=53.24 @ t=14.337
+Iter 908: best=53.24 @ t=14.353
+Iter 909: best=53.24 @ t=14.370
+Iter 910: best=53.24 @ t=14.385
+Iter 911: best=53.24 @ t=14.401
+Iter 912: best=53.24 @ t=14.418
+Iter 913: best=53.24 @ t=14.434
+Iter 914: best=53.24 @ t=14.449
+Iter 915: best=53.24 @ t=14.466
+Iter 916: best=53.24 @ t=14.482
+Iter 917: best=53.24 @ t=14.498
+Iter 918: best=53.24 @ t=14.514
+Iter 919: best=53.24 @ t=14.530
+Iter 920: best=53.24 @ t=14.547
+Iter 921: best=53.24 @ t=14.563
+Iter 922: best=53.24 @ t=14.578
+Iter 923: best=53.24 @ t=14.593
+Iter 924: best=53.24 @ t=14.610
+Iter 925: best=53.24 @ t=14.626
+Iter 926: best=53.24 @ t=14.642
+Iter 927: best=53.24 @ t=14.659
+Iter 928: best=53.24 @ t=14.676
+Iter 929: best=53.24 @ t=14.692
+Iter 930: best=53.24 @ t=14.707
+Iter 931: best=53.24 @ t=14.723
+Iter 932: best=53.24 @ t=14.738
+Iter 933: best=53.24 @ t=14.754
+Iter 934: best=53.24 @ t=14.775
+Iter 935: best=53.24 @ t=14.793
+Iter 936: best=53.24 @ t=14.810
+Iter 937: best=53.24 @ t=14.826
+Iter 938: best=53.24 @ t=14.842
+Iter 939: best=53.24 @ t=14.857
+Iter 940: best=53.24 @ t=14.873
+Iter 941: best=53.24 @ t=14.887
+Iter 942: best=53.24 @ t=14.902
+Iter 943: best=53.24 @ t=14.918
+Iter 944: best=53.24 @ t=14.934
+Iter 945: best=53.24 @ t=14.949
+Iter 946: best=53.24 @ t=14.967
+Iter 947: best=53.24 @ t=14.984
+Iter 948: best=53.24 @ t=15.000
+Iter 949: best=53.24 @ t=15.015
+Iter 950: best=53.24 @ t=15.031
+Iter 951: best=53.24 @ t=15.047
+Iter 952: best=53.24 @ t=15.063
+Iter 953: best=53.24 @ t=15.079
+Iter 954: best=53.24 @ t=15.094
+Iter 955: best=53.24 @ t=15.110
+Iter 956: best=53.24 @ t=15.126
+Iter 957: best=53.24 @ t=15.143
+Iter 958: best=53.24 @ t=15.160
+Iter 959: best=53.24 @ t=15.175
+Iter 960: best=53.24 @ t=15.193
+Iter 961: best=53.24 @ t=15.211
+Iter 962: best=53.24 @ t=15.227
+Iter 963: best=53.24 @ t=15.243
+Iter 964: best=53.24 @ t=15.259
+Iter 965: best=53.24 @ t=15.275
+Iter 966: best=53.24 @ t=15.291
+Iter 967: best=53.24 @ t=15.308
+Iter 968: best=53.24 @ t=15.324
+Iter 969: best=53.24 @ t=15.339
+Iter 970: best=53.24 @ t=15.355
+Iter 971: best=53.24 @ t=15.370
+Iter 972: best=53.24 @ t=15.385
+Iter 973: best=53.24 @ t=15.400
+Iter 974: best=53.24 @ t=15.419
+Iter 975: best=53.24 @ t=15.435
+Iter 976: best=53.24 @ t=15.451
+Iter 977: best=53.24 @ t=15.468
+Iter 978: best=53.24 @ t=15.484
+Iter 979: best=53.24 @ t=15.500
+Iter 980: best=53.24 @ t=15.516
+Iter 981: best=53.24 @ t=15.533
+Iter 982: best=53.24 @ t=15.549
+Iter 983: best=53.24 @ t=15.564
+Iter 984: best=53.24 @ t=15.580
+Iter 985: best=53.24 @ t=15.595
+Iter 986: best=53.24 @ t=15.611
+Iter 987: best=53.24 @ t=15.626
+Iter 988: best=53.24 @ t=15.642
+Iter 989: best=53.24 @ t=15.658
+Iter 990: best=53.24 @ t=15.674
+Iter 991: best=53.24 @ t=15.688
+Iter 992: best=53.24 @ t=15.703
+Iter 993: best=53.24 @ t=15.719
+Iter 994: best=53.24 @ t=15.739
+Iter 995: best=53.24 @ t=15.756
+Iter 996: best=53.24 @ t=15.772
+Iter 997: best=53.24 @ t=15.788
+Iter 998: best=53.24 @ t=15.804
+Iter 999: best=53.24 @ t=15.820
+Iter 1000: best=53.24 @ t=15.835
+Gráfico salvo: ub_lp_grf117.png
+---- Iniciando ILS completo ----
+ILS-3OPT: custo inicial = 51.54
+Aceita pior solução com custo 51.540000000000006
+ILS-3OPT: It   1: Custo = 51.54 | Melhor = 51.54
+Aceita pior solução com custo 51.540000000000006
+ILS-3OPT: It   2: Custo = 51.54 | Melhor = 51.54
+Aceita pior solução com custo 51.540000000000006
+ILS-3OPT: It   3: Custo = 51.54 | Melhor = 51.54
+Melhoria absoluta: 50.920000000000016
+ILS-3OPT: It   4: Custo = 50.92 | Melhor = 50.92
+Aceita pior solução com custo 51.540000000000006
+ILS-3OPT: It   5: Custo = 51.54 | Melhor = 50.92
+Aceita pior solução com custo 51.540000000000006
+ILS-3OPT: It   6: Custo = 51.54 | Melhor = 50.92
+Aceita pior solução com custo 51.540000000000006
+ILS-3OPT: It   7: Custo = 51.54 | Melhor = 50.92
+Aceita pior solução com custo 51.540000000000006
+ILS-3OPT: It   8: Custo = 51.54 | Melhor = 50.92
+Aceita pior solução com custo 51.540000000000006
+ILS-3OPT: It   9: Custo = 51.54 | Melhor = 50.92
+Melhoria absoluta: 50.320000000000014
+ILS-3OPT: It  10: Custo = 50.32 | Melhor = 50.32
+Aceita pior solução com custo 51.540000000000006
+ILS-3OPT: It  11: Custo = 51.54 | Melhor = 50.32
+Aceita pior solução com custo 51.540000000000006
+ILS-3OPT: It  12: Custo = 51.54 | Melhor = 50.32
+Aceita pior solução com custo 50.710000000000015
+ILS-3OPT: It  13: Custo = 50.71 | Melhor = 50.32
+Aceita pior solução com custo 50.710000000000015
+ILS-3OPT: It  14: Custo = 50.71 | Melhor = 50.32
+Aceita pior solução com custo 50.710000000000015
+ILS-3OPT: It  15: Custo = 50.71 | Melhor = 50.32
+Melhoria absoluta: 49.90000000000001
+ILS-3OPT: It  16: Custo = 49.90 | Melhor = 49.90
+Aceita pior solução com custo 50.710000000000015
+ILS-3OPT: It  17: Custo = 50.71 | Melhor = 49.90
+Aceita pior solução com custo 50.710000000000015
+ILS-3OPT: It  18: Custo = 50.71 | Melhor = 49.90
+Aceita pior solução com custo 50.710000000000015
+ILS-3OPT: It  19: Custo = 50.71 | Melhor = 49.90
+Aceita pior solução com custo 51.000000000000014
+ILS-3OPT: It  20: Custo = 51.00 | Melhor = 49.90
+Aceita pior solução com custo 51.000000000000014
+ILS-3OPT: It  21: Custo = 51.00 | Melhor = 49.90
+Aceita pior solução com custo 51.000000000000014
+ILS-3OPT: It  22: Custo = 51.00 | Melhor = 49.90
+Aceita pior solução com custo 51.000000000000014
+ILS-3OPT: It  23: Custo = 51.00 | Melhor = 49.90
+Aceita pior solução com custo 50.710000000000015
+ILS-3OPT: It  24: Custo = 50.71 | Melhor = 49.90
+Aceita pior solução com custo 50.710000000000015
+ILS-3OPT: It  25: Custo = 50.71 | Melhor = 49.90
+Aceita pior solução com custo 50.710000000000015
+ILS-3OPT: It  26: Custo = 50.71 | Melhor = 49.90
+Aceita pior solução com custo 50.710000000000015
+ILS-3OPT: It  27: Custo = 50.71 | Melhor = 49.90
+Aceita pior solução com custo 50.620000000000005
+ILS-3OPT: It  28: Custo = 50.62 | Melhor = 49.90
+Aceita pior solução com custo 50.620000000000005
+ILS-3OPT: It  29: Custo = 50.62 | Melhor = 49.90
+Aceita pior solução com custo 50.620000000000005
+ILS-3OPT: It  30: Custo = 50.62 | Melhor = 49.90
+Aceita pior solução com custo 50.75000000000001
+ILS-3OPT: It  31: Custo = 50.75 | Melhor = 49.90
+Aceita pior solução com custo 50.690000000000026
+ILS-3OPT: It  32: Custo = 50.69 | Melhor = 49.90
+Aceita pior solução com custo 50.690000000000026
+ILS-3OPT: It  33: Custo = 50.69 | Melhor = 49.90
+Aceita pior solução com custo 50.690000000000026
+ILS-3OPT: It  34: Custo = 50.69 | Melhor = 49.90
+Tempo máximo excedido. Saindo.
+Gráfico salvo: ub_rlxlag_grf117.png

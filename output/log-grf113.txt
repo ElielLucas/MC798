@@ -1,8 +1,0 @@
-RA, InputFile, Path, Dia/Hora, NNodes, NArcs, NTriggers, Routine, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
-295745,grf113.txt,grf113.txt,2025-07-13T20:09:39.751,58,464,23583,lb_lp,maxtime_lb_lp,800,time_lb_lp,98,lb_lp,52.304166666666674,
-295745,grf113.txt,grf113.txt,2025-07-13T20:23:21.032,58,464,23583,lb_rlxlag,maxtime_lb_rlxlag,800,time_lb_rlxlag,818,lb_rlxlag,52.19999999999995,
-295745,grf113.txt,grf113.txt,2025-07-13T20:23:43.854,58,464,23583,ub_lp,maxtime_ub_lp,800,time_ub_lp,23,ub_lp,59.08000000000001,
-295745,grf113.txt,grf113.txt,2025-07-13T20:37:10.692,58,464,23583,ub_rlxlag,maxtime_ub_rlxlag,800,time_ub_rlxlag,807,ub_rlxlag,55.6,
-295745,grf113.txt,grf113.txt,2025-07-13T20:42:30.632,58,464,23583,lb_colgen,maxtime_lb_colgen,800,time_lb_colgen,320,lb_colgen,59.540000000000006,
-295745,grf113.txt,grf113.txt,2025-07-15T19:46:34.765,58,464,23583,lb_lp,maxtime_lb_lp,1020,time_lb_lp,91,lb_lp,52.304166666666674,
-295745,grf113.txt,grf113.txt,2025-07-15T20:26:05.420,58,464,23583,ub_colgen,maxtime_ub_colgen,1020,time_ub_colgen,1,ub_colgen,59.540000000000006,

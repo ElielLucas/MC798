@@ -1,9 +1,9 @@
 #!/bin/bash
 
-INSTANCIAS=("grf1.txt" "grf2.txt" "grf5.txt" "grf6.txt" "grf19.txt" "grf101.txt" "grf102.txt" "grf103.txt" "grf104.txt" "grf105.txt" "grf106.txt" "grf107.txt" "grf108.txt" "grf109.txt" "grf110.txt" "grf111.txt" "grf112.txt")
+INSTANCIAS=("grf113.txt" "grf114.txt" "grf117.txt" "grf118.txt" "grf119.txt" "grf120.txt" "grf121.txt" "grf123.txt" "grf124.txt" "grf125.txt" "grf126.txt" "grf127.txt" "grf129.txt" "grf130.txt" "grf131.txt" "grf132.txt" "grf133.txt" "grf134.txt")
 SEED=42
 ROTULO=295745
-MAXTIME=1500
+MAXTIME=600
 
 for INST in "${INSTANCIAS[@]}"; do
   LOGFILE="log-${INST%.txt}.txt"

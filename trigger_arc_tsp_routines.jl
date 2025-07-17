@@ -22,7 +22,6 @@ using SimpleWeightedGraphs
 
 
 function calcular_custo_tatsp(tour_indices::Vector{Int}, arcos::Vector{ArcType}, relacoes::Vector{TriggerType}, num_nos::Int)
-    # Reconstrói a ordem dos arcos no ciclo com base na sequência
     tour_arcos = Vector{ArcType}(undef, num_nos)
     visitado = falses(num_nos)
     mapa_saida = Dict{Int, ArcType}()
@@ -32,7 +31,6 @@ function calcular_custo_tatsp(tour_indices::Vector{Int}, arcos::Vector{ArcType},
         mapa_saida[a.u] = a
     end
 
-    # Reconstruir ciclo ordenado
     atual = 1
     for i in 1:num_nos
         if !haskey(mapa_saida, atual)
@@ -42,19 +40,16 @@ function calcular_custo_tatsp(tour_indices::Vector{Int}, arcos::Vector{ArcType},
         atual = mapa_saida[atual].v
     end
 
-    # Prepara matriz de gatilhos
     gatilhos = Dict{Tuple{Int, Int}, Float64}()
     for r in relacoes
         gatilhos[(r.trigger_arc_id, r.target_arc_id)] = r.cost
     end
 
-    # Calcula custo com gatilhos
     custo_total = 0.0
     for i in 1:num_nos
         arc_i = tour_indices[i]
         custo_arc_i = arcos[arc_i].cost
 
-        # Verifica se algum arco anterior o ativa
         for j in 1:i-1
             arc_j = tour_indices[j]
             if haskey(gatilhos, (arc_j, arc_i))
@@ -825,17 +820,14 @@ function TriggerArcTSP_lb_colgen(T::TriggerArcTSP)
 
     n, m, R = T.NNodes, T.NArcs, T.NTriggers
 
-    # 1) Garante solução Lagrangeana disponível
     if !@isdefined(best_x_rlxlag)
         TriggerArcTSP_lb_rlxlag(T)
     end
 
-    # 2) Gera várias colunas iniciais (tours heurísticos distintos)
     columns_arcs  = Vector{Vector{Int}}()
     columns_nodes = Vector{BitVector}()
     col_costs     = Float64[]
 
-    # 2.1) uma via greedy_guided_construction
     arc_seq, cost = greedy_guided_construction(T, best_x_rlxlag)
     if !isempty(arc_seq)
         push!(columns_arcs, arc_seq)
@@ -847,7 +839,6 @@ function TriggerArcTSP_lb_colgen(T::TriggerArcTSP)
         push!(col_costs, cost)
     end
 
-    # 2.2) mais algumas via greedy_guided_construction com ruído
     for rep in 1:5
         xf = [ x + 0.05*randn() for x in best_x_rlxlag ]
         seq, _ = greedy_guided_construction(T, xf)
@@ -863,9 +854,7 @@ function TriggerArcTSP_lb_colgen(T::TriggerArcTSP)
         end
     end
 
-    # 3) loop de column-generation
     for iter in 1:30
-        # 3a) resolve mestre restrito θ ≥ 0
         master = Model(Gurobi.Optimizer); set_silent(master)
         k = length(columns_arcs)
         @variable(master, θ[1:k] >= 0)
@@ -883,10 +872,8 @@ function TriggerArcTSP_lb_colgen(T::TriggerArcTSP)
         lb = objective_value(master)
         println(@sprintf("  it %2d → LB mestre = %.4f", iter, lb))
 
-        # 3b) extrai duais π_j
         π = [ dual(cons[j]) for j in 1:n ]
 
-        # 3c) pricing exato: resolve TSP com custos reduzidos
         pricing = modelar_tatsp_ilp(n, m, R, T.Arc, T.Trigger)
         @objective(pricing, Min,
             sum((T.Arc[a].cost + π[T.Arc[a].u] + π[T.Arc[a].v]) * pricing[:x][a]
@@ -897,7 +884,6 @@ function TriggerArcTSP_lb_colgen(T::TriggerArcTSP)
             error("LB_colgen: pricing MIP não ótimo")
         end
 
-        # 3d) extrai tour binário do pricing
         xbin = [ round(value(pricing[:x][a])) for a in 1:m ]
         new_arc_seq = findall(v->v==1, xbin)
         if length(new_arc_seq) != n
@@ -905,7 +891,6 @@ function TriggerArcTSP_lb_colgen(T::TriggerArcTSP)
             break
         end
 
-        # 3e) calcula reduced cost e decide parar/adicionar
         cost_new = calcular_custo_tatsp(new_arc_seq, T.Arc, T.Trigger, T.NNodes)
         rc = objective_value(pricing) - sum(π)
         println(@sprintf("    → rc = %.4f  (custo=%.2f)", rc, cost_new))
@@ -920,12 +905,10 @@ function TriggerArcTSP_lb_colgen(T::TriggerArcTSP)
             return
         end
 
-        # 3f) adiciona nova coluna
         bv = falses(n)
         for v in tour_to_node_sequence(T, new_arc_seq)[1:end-1]
             bv[v] = true
         end
-        # evita duplicata exata
         if !any(bv == bn for bn in columns_nodes)
             push!(columns_arcs, new_arc_seq)
             push!(columns_nodes, bv)
@@ -936,7 +919,6 @@ function TriggerArcTSP_lb_colgen(T::TriggerArcTSP)
         end
     end
 
-    # não convergiu em 30 iterações
     println("LB_colgen: max it atingido → LB≈$(col_costs[end])")
     T.lb_colgen      = col_costs[end]
     T.time_lb_colgen = ceil(time() - StartingTime)

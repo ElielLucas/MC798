@@ -1,0 +1,93 @@
+Rodando instância: grf6.txt
+---- Iniciando Algoritmo Exato - PLI com Gurobi ----
+Set parameter Username
+Set parameter LicenseID to value 2632250
+Academic license - for non-commercial use only - expires 2026-03-06
+Set parameter TimeLimit to value 1500
+Set parameter TimeLimit to value 1500
+Gurobi Optimizer version 12.0.2 build v12.0.2rc0 (linux64 - "Linux Mint 22.1")
+
+CPU model: Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz, instruction set [SSE2|AVX|AVX2]
+Thread count: 4 physical cores, 8 logical processors, using up to 8 threads
+
+Non-default parameters:
+TimeLimit  1500
+
+Optimize a model with 22329 rows, 3884 columns and 97116 nonzeros
+Model fingerprint: 0x39d52c54
+Variable types: 0 continuous, 3884 integer (3864 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [1e-02, 1e+01]
+  Bounds range     [1e+00, 2e+01]
+  RHS range        [1e+00, 4e+01]
+Presolve removed 3569 rows and 346 columns
+Presolve time: 1.18s
+Presolved: 18760 rows, 3538 columns, 80076 nonzeros
+Variable types: 0 continuous, 3538 integer (3518 binary)
+Root relaxation presolved: 18760 rows, 3538 columns, 80076 nonzeros
+
+
+Root relaxation: objective 4.750625e+01, 650 iterations, 0.17 seconds (0.17 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   47.50625    0   98          -   47.50625      -     -    1s
+H    0     0                     109.4100000   47.50625  56.6%     -    1s
+     0     0   47.52375    0   90  109.41000   47.52375  56.6%     -    2s
+     0     0   47.52750    0   92  109.41000   47.52750  56.6%     -    2s
+     0     0   47.68495    0  119  109.41000   47.68495  56.4%     -    2s
+     0     0   47.69154    0  118  109.41000   47.69154  56.4%     -    2s
+     0     0   47.69154    0  100  109.41000   47.69154  56.4%     -    3s
+H    0     0                      65.1100000   47.69154  26.8%     -    3s
+H    0     0                      64.7700000   47.69154  26.4%     -    3s
+     0     0   47.69154    0  100   64.77000   47.69154  26.4%     -    3s
+     0     0   47.72667    0   90   64.77000   47.72667  26.3%     -    3s
+     0     0   47.76000    0   84   64.77000   47.76000  26.3%     -    4s
+H    0     0                      55.9500000   47.98050  14.2%     -    4s
+     0     0   47.98100    0   80   55.95000   47.98100  14.2%     -    4s
+     0     0   48.07500    0   89   55.95000   48.07500  14.1%     -    4s
+     0     0   48.20572    0   82   55.95000   48.20572  13.8%     -    4s
+     0     0   48.26000    0   84   55.95000   48.26000  13.7%     -    4s
+     0     0   48.34775    0  112   55.95000   48.34775  13.6%     -    5s
+     0     0   48.40277    0  117   55.95000   48.40277  13.5%     -    5s
+     0     0   48.42942    0   95   55.95000   48.42942  13.4%     -    5s
+     0     0   48.43956    0   93   55.95000   48.43956  13.4%     -    5s
+     0     0   48.52800    0  114   55.95000   48.52800  13.3%     -    6s
+     0     0   48.53300    0  117   55.95000   48.53300  13.3%     -    6s
+     0     0   48.54300    0  116   55.95000   48.54300  13.2%     -    6s
+     0     0   48.54300    0  116   55.95000   48.54300  13.2%     -    6s
+     0     2   48.54300    0  101   55.95000   48.54300  13.2%     -    7s
+H  178   151                      53.0800000   48.54300  8.55%  30.4    8s
+*  271   195              19      51.4000000   48.54300  5.56%  28.4    9s
+H  338   212                      49.9300000   48.84000  2.18%  26.9    9s
+   455    58 infeasible   16        49.93000   49.53668  0.79%  23.8   10s
+
+Cutting planes:
+  Gomory: 6
+  Cover: 5
+  Implied bound: 28
+  MIR: 77
+  StrongCG: 4
+  Inf proof: 1
+  Zero half: 12
+  Mod-K: 1
+  RLT: 35
+  Relax-and-lift: 9
+  BQP: 5
+  PSD: 4
+
+Explored 547 nodes (12069 simplex iterations) in 10.08 seconds (6.96 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 7: 49.93 51.4 53.08 ... 109.41
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 4.993000000000e+01, best bound 4.993000000000e+01, gap 0.0000%
+
+User-callback calls 4779, time in user-callback 0.01 sec
+---- PLI com Gurobi Finalizado ----
+Custo ótimo (real): 50.64999999999999
+LB solver (função objetivo): 49.93000000000001
+Arcos no tour: [15, 25, 37, 41, 48, 57, 58, 65, 71, 80, 89, 105, 109, 120, 136, 143, 149, 158, 194, 197]
